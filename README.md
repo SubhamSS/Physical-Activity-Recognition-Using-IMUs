@@ -2,7 +2,7 @@
 Raw dataset used:
 https://archive.ics.uci.edu/ml/machine-learning-databases/00231/
 
-To run the code and reproduce results quoted in the report, add all 6 following .py files to an environment:
+To run the code and get results, add all 6 following .py files to an environment:
 	1. preprocess_1.py 
 	2. main.py
 	3. main_ts_l2.py
