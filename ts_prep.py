@@ -4,7 +4,7 @@
 # and then generates features (statistical, correlation, energy and frequency based)
 #Finally returns the time-series processed dataset
 
-#dont run this code, instaed run the 'main_ts_l2,py' file
+#dont run this code, instead run the 'main_ts_l2.py' file
 
 import pandas
 from time_series_feat import *
